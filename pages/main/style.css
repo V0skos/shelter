@@ -1,0 +1,19 @@
+.a1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.a2 {
+    background: url(../../assets/images/fon.png);
+}
+.a3 {
+    background: #FFFFFF;
+}
+.a4 {
+    background: #F6F6F6;
+}
+.a5 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
